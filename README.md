@@ -2,7 +2,6 @@
 
     
 🚀 About Me<br>
-    💻 Currently learning Full Stack Web Development at SMIT (Saylani Mass IT Training)<br>
     🔥 Passionate about coding, problem-solving, and building innovative web applications<br>
     🎓 Completed ICS From FG DEGREE COLLEGE-2025 <br>
   ## 🌐 Socials:
