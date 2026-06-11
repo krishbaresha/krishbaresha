@@ -15,16 +15,16 @@
 <br/><br/>
 
 <!-- Badges -->
-<a href="https://github.com/krish-baryashah">
-  <img src="https://komarev.com/ghpvc/?username=krish-baryashah&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://github.com/krishbaresha">
+  <img src="https://komarev.com/ghpvc/?username=krishbaresha&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
 &nbsp;
-<a href="https://github.com/krish-baryashah?tab=followers">
-  <img src="https://img.shields.io/github/followers/krish-baryashah?style=for-the-badge&color=bb9af7&labelColor=1a1b27&label=FOLLOWERS&logo=github" alt="Followers" />
+<a href="https://github.com/krishbaresha?tab=followers">
+  <img src="https://img.shields.io/github/followers/krishbaresha?style=for-the-badge&color=bb9af7&labelColor=1a1b27&label=FOLLOWERS&logo=github" alt="Followers" />
 </a>
 &nbsp;
-<a href="https://github.com/krish-baryashah?tab=stars">
-  <img src="https://img.shields.io/github/stars/krish-baryashah?style=for-the-badge&color=e0af68&labelColor=1a1b27&label=STARS&logo=github" alt="Stars" />
+<a href="https://github.com/krishbaresha?tab=stars">
+  <img src="https://img.shields.io/github/stars/krishbaresha?style=for-the-badge&color=e0af68&labelColor=1a1b27&label=STARS&logo=github" alt="Stars" />
 </a>
 
 </div>
@@ -47,7 +47,7 @@ I work across the **Python** and **JavaScript** ecosystems, from FastAPI microse
 
 <br/>
 
-- 🔭 &nbsp; Currently building **[KB Digital Core](https://github.com/krish-baryashah)** — an FBR-Compliant ERP System
+- 🔭 &nbsp; Currently building **[KB Digital Core](https://github.com/krishbaresha)** — an FBR-Compliant ERP System
 - 🌱 &nbsp; Learning **Advanced Python · Next.js · AI Agents · System Design**
 - 💬 &nbsp; Ask me about **Python, FastAPI, React, Next.js & FBR Integration**
 - 🎯 &nbsp; Building Pakistan-focused tech products with global quality standards
@@ -120,14 +120,14 @@ I work across the **Python** and **JavaScript** ecosystems, from FastAPI microse
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=krish-baryashah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=krishbaresha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-baryashah&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishbaresha&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" />
 
 </div>
 
 <div align="center">
-  <img width="700" src="https://streak-stats.demolab.com?user=krish-baryashah&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=e0af68&currStreakLabel=bb9af7&sideLabels=a9b1d6&dates=565f89&currStreakNum=c0caf5&sideNums=c0caf5" alt="GitHub Streak" />
+  <img width="700" src="https://streak-stats.demolab.com?user=krish-baresha&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=e0af68&currStreakLabel=bb9af7&sideLabels=a9b1d6&dates=565f89&currStreakNum=c0caf5&sideNums=c0caf5" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -141,7 +141,7 @@ I work across the **Python** and **JavaScript** ecosystems, from FastAPI microse
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krish-baryashah&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=krishbaresha&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -155,7 +155,7 @@ I work across the **Python** and **JavaScript** ecosystems, from FastAPI microse
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krish-baryashah&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=e0af68&area=true&area_color=7aa2f7" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishbaresha&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=e0af68&area=true&area_color=7aa2f7" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -170,9 +170,9 @@ I work across the **Python** and **JavaScript** ecosystems, from FastAPI microse
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krish-baryashah/krish-baryashah/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krish-baryashah/krish-baryashah/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/krish-baryashah/krish-baryashah/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishbaresha/krishbaresha/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishbaresha/krishbaresha/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/krishbaresha/krishbaresha/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
@@ -230,12 +230,12 @@ jobs:
 
 <div align="center">
 
-<a href="https://github.com/krish-baryashah/kb-digital-core">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish-baryashah&repo=kb-digital-core&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&description_lines_count=2" />
+<a href="https://github.com/krishbaresha/kb-digital-core">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishbaresha&repo=kb-digital-core&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&description_lines_count=2" />
 </a>
 &nbsp;
-<a href="https://github.com/krish-baryashah/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish-baryashah&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&description_lines_count=2" />
+<a href="https://github.com/krishbaresha/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishbaresha&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&description_lines_count=2" />
 </a>
 
 </div>
@@ -243,8 +243,8 @@ jobs:
 <br/>
 
 <div align="center">
-<a href="https://github.com/krish-baryashah/python-utils">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish-baryashah&repo=python-utils&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&description_lines_count=2" />
+<a href="https://github.com/krishbaresha/python-utils">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishbaresha&repo=python-utils&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&description_lines_count=2" />
 </a>
 </div>
 
@@ -318,7 +318,7 @@ jobs:
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://github.com/krish-baryashah" target="_blank">
+<a href="https://github.com/krishbaresha" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -334,7 +334,7 @@ jobs:
 
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=krish-baryashah&label=Profile%20Views&icon=6&pretty=true&color=7" alt="Visitor Count" />
+<img src="https://visitcount.itsvg.in/api?id=krishbaresha&label=Profile%20Views&icon=6&pretty=true&color=7" alt="Visitor Count" />
 
 </div>
 
@@ -365,23 +365,23 @@ jobs:
 
 <br/>
 
-<a href="https://github.com/krish-baryashah">
+<a href="https://github.com/krishbaresha">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+Enthusiast+%F0%9F%90%8D;ERP+System+Architect+%F0%9F%8F%97%EF%B8%8F;FBR+Integration+Specialist+%F0%9F%87%B5%F0%9F%87%B0;UI%2FUX+Lover+%F0%9F%8E%A8;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- Badges -->
-<a href="https://github.com/krish-baryashah">
-  <img src="https://komarev.com/ghpvc/?username=krish-baryashah&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://github.com/krishbaresha">
+  <img src="https://komarev.com/ghpvc/?username=krishbaresha&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
 &nbsp;
-<a href="https://github.com/krish-baryashah?tab=followers">
-  <img src="https://img.shields.io/github/followers/krish-baryashah?style=for-the-badge&color=bb9af7&labelColor=1a1b27&label=FOLLOWERS&logo=github" alt="Followers" />
+<a href="https://github.com/krishbaresha?tab=followers">
+  <img src="https://img.shields.io/github/followers/krishbaresha?style=for-the-badge&color=bb9af7&labelColor=1a1b27&label=FOLLOWERS&logo=github" alt="Followers" />
 </a>
 &nbsp;
-<a href="https://github.com/krish-baryashah?tab=stars">
-  <img src="https://img.shields.io/github/stars/krish-baryashah?style=for-the-badge&color=e0af68&labelColor=1a1b27&label=STARS&logo=github" alt="Stars" />
+<a href="https://github.com/krishbaresha?tab=stars">
+  <img src="https://img.shields.io/github/stars/krishbaresha?style=for-the-badge&color=e0af68&labelColor=1a1b27&label=STARS&logo=github" alt="Stars" />
 </a>
 
 </div>
@@ -404,7 +404,7 @@ I work across the **Python** and **JavaScript** ecosystems, from FastAPI microse
 
 <br/>
 
-- 🔭 &nbsp; Currently building **[KB Digital Core](https://github.com/krish-baryashah)** — an FBR-Compliant ERP System
+- 🔭 &nbsp; Currently building **[KB Digital Core](https://github.com/krishbaresha)** — an FBR-Compliant ERP System
 - 🌱 &nbsp; Learning **Advanced Python · Next.js · AI Agents · System Design**
 - 💬 &nbsp; Ask me about **Python, FastAPI, React, Next.js & FBR Integration**
 - 🎯 &nbsp; Building Pakistan-focused tech products with global quality standards
@@ -477,14 +477,14 @@ I work across the **Python** and **JavaScript** ecosystems, from FastAPI microse
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=krish-baryashah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=krishbaresha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-baryashah&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishbaresha&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" />
 
 </div>
 
 <div align="center">
-  <img width="700" src="https://streak-stats.demolab.com?user=krish-baryashah&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=e0af68&currStreakLabel=bb9af7&sideLabels=a9b1d6&dates=565f89&currStreakNum=c0caf5&sideNums=c0caf5" alt="GitHub Streak" />
+  <img width="700" src="https://streak-stats.demolab.com?user=krishbaresha&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=e0af68&currStreakLabel=bb9af7&sideLabels=a9b1d6&dates=565f89&currStreakNum=c0caf5&sideNums=c0caf5" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -498,7 +498,7 @@ I work across the **Python** and **JavaScript** ecosystems, from FastAPI microse
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krish-baryashah&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=krishbaresha&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -512,7 +512,7 @@ I work across the **Python** and **JavaScript** ecosystems, from FastAPI microse
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krish-baryashah&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=e0af68&area=true&area_color=7aa2f7" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishbaresha&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=e0af68&area=true&area_color=7aa2f7" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -527,9 +527,9 @@ I work across the **Python** and **JavaScript** ecosystems, from FastAPI microse
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krish-baryashah/krish-baryashah/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krish-baryashah/krish-baryashah/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/krish-baryashah/krish-baryashah/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishbaresha/krishbaresha/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishbaresha/krishbaresha/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/krishbaresha/krishbaresha/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
@@ -587,12 +587,12 @@ jobs:
 
 <div align="center">
 
-<a href="https://github.com/krish-baryashah/kb-digital-core">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish-baryashah&repo=kb-digital-core&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&description_lines_count=2" />
+<a href="https://github.com/krishbaresha/kb-digital-core">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishbaresha&repo=kb-digital-core&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&description_lines_count=2" />
 </a>
 &nbsp;
-<a href="https://github.com/krish-baryashah/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish-baryashah&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&description_lines_count=2" />
+<a href="https://github.com/krishbaresha/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishbaresha&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&description_lines_count=2" />
 </a>
 
 </div>
@@ -600,8 +600,8 @@ jobs:
 <br/>
 
 <div align="center">
-<a href="https://github.com/krish-baryashah/python-utils">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish-baryashah&repo=python-utils&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&description_lines_count=2" />
+<a href="https://github.com/krishbaresha/python-utils">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishbaresha&repo=python-utils&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&description_lines_count=2" />
 </a>
 </div>
 
@@ -675,7 +675,7 @@ jobs:
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://github.com/krish-baryashah" target="_blank">
+<a href="https://github.com/krishbaresha" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -691,7 +691,7 @@ jobs:
 
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=krish-baryashah&label=Profile%20Views&icon=6&pretty=true&color=7" alt="Visitor Count" />
+<img src="https://visitcount.itsvg.in/api?id=krishbaresha&label=Profile%20Views&icon=6&pretty=true&color=7" alt="Visitor Count" />
 
 </div>
 
