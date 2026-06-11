@@ -157,57 +157,6 @@ I work across the **Python** and **JavaScript** ecosystems, from FastAPI microse
 </div>
 
 <details open>
-<summary><b>⚙️ Click here — Setup in 3 steps (Required once)</b></summary>
-<br/>
-
-**Step 1 — Make sure your profile repo exists**
-
-You need a repo named exactly `krishbaresha` (same as your GitHub username) at `github.com/krishbaresha/krishbaresha`. If it doesn't exist, create it as a public repo with a README.
-
-**Step 2 — Create the workflow file**
-
-Inside that repo, create the file `.github/workflows/snake.yml` with this content:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate GitHub contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 3 — Run it manually once**
-
-Go to `Actions` tab → `Generate Snake Animation` → `Run workflow` → `Run workflow` (green button).
-
-After ~30 seconds, the snake SVG will appear below automatically. ✅
-
-</details>
 
 <div align="center">
   <picture>
