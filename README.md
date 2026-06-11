@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://github.com/krish-baryashah">
+<a href="https://github.com/krishbaresha">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+Enthusiast+%F0%9F%90%8D;ERP+System+Architect+%F0%9F%8F%97%EF%B8%8F;FBR+Integration+Specialist+%F0%9F%87%B5%F0%9F%87%B0;UI%2FUX+Lover+%F0%9F%8E%A8;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
