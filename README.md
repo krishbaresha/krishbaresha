@@ -227,7 +227,7 @@ I work across the **Python** and **JavaScript** ecosystems, from FastAPI microse
     <td width="50%" valign="top">
       <h3 align="center">🤖 MehfoozAI</h3>
       <p align="center">
-        <a href="https://github.com/krishbaresha/mehfooz-ai">
+        <a href="https://github.com/krishbaresha/MehfoozAI">
           <img src="https://img.shields.io/badge/View_Repo-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" />
         </a>
       </p>
