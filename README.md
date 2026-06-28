@@ -43,7 +43,7 @@ I work across the **Python** and **JavaScript** ecosystems, from FastAPI microse
 
 <br/>
 
-- 🔭 &nbsp; My Build **[Mehfooz Ai](https://mahfoozai.netlify.app/)** — an FBR-Compliant ERP System
+- 🔭 &nbsp; My Build **[Mehfooz Ai](https://mahfoozai.netlify.app/)** — AI-Powered Community Safety & Tactical Intelligence Platform.
 - 🌱 &nbsp; Learning **Advanced Python · Next.js · AI Agents · System Design**
 - 💬 &nbsp; Ask me about **Python, FastAPI, React, Next.js & FBR Integration**
 - 🎯 &nbsp; Building Pakistan-focused tech products with global quality standards
